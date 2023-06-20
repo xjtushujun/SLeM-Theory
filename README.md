@@ -65,8 +65,11 @@ The following tables show the results on four few-shot learning benchmarks. Our 
 </div>
 
 ### Domain Generalization
+The following table shows the classification accuracy on four hold-out target domain. Our proposed meta-regularization schemes produce more robust and effective feature extractor for unseen domains compared with other competing methods.
 
-
+<div  align="center">    
+   <img src="figure/domain.png" width="90%" height="90%" align=center />
+</div>
 
 
 
