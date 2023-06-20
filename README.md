@@ -8,7 +8,7 @@ The implementation of meta-regularization proposed in our SLeM theory paper "Lea
 ## CONTENTS
 
 * [Overview](#overview)
-* [Proposed Meta-Regularization Strategies](#proposed meta-regularization strategies)
+* [Proposed Meta-Regularization Strategies](#proposedmeta-regularizationstrategies)
 * [Experiments](#experiments)
 
 
