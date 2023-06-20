@@ -32,15 +32,17 @@ To validate the effectiveness of proposed meta-regularization strategies for the
 
 ### Few-shot Regression
 The following figures show transfer error of different training strategies with varied numbers of training tasks (T), support samples(m) and query samples(n).
+The proposed training strategies can help consistently improve the performance of the baseline method on different meta-training tasks or support/query samples. The meta-regularization strategy "Tanh" for meta-learner achieves an evidently larger improvement compared with regularization strategy for learner.
+
 - m=1,n=5
 <div  align="center">    
     <img src="figure/query5_shot1_tasknum100_fig.jpg" width="90%" height="90%" align=center />
 </div>
--m=5,n=1
+- m=5,n=1
 <div  align="center">    
    <img src="figure/query1_shot5_tasknum100_fig.jpg" width="90%" height="90%" align=center />
 </div>
--m=5,n=5
+- m=5,n=5
 <div  align="center">    
     <img src="figure/query5_shot5_tasknum100_fig.jpg" width="90%" height="90%" align=center />
 </div>
