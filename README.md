@@ -22,7 +22,7 @@ Meta learning has attracted much attention recently in machine learning communit
 ## Proposed Meta-Regularization Strategies
 
 - Tanh: Control the output range of the meta-learner. All activation functions of CNN are usually assumed to be ReLU, while we revise the last activation function as "Tanh". E.g. see [example](https://github.com/xjtushujun/SLeM-Theory/blob/main/protonet_Tanh.py#L17).
-- L$^2$-SP: Minimize the distance between the weights from the starting point weights.
+- L$^2$-SP: Minimize the distance between the weights from the starting point weights. Refer to implementation of L$^2$-SP in transfer learning [L$^2$-SP](https://github.com/thuml/Transfer-Learning-Library/blob/master/examples/task_adaptation/image_classification/delta.py).
 
 
 
