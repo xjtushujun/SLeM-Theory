@@ -21,6 +21,9 @@ Meta learning has attracted much attention recently in machine learning communit
 
 ## Proposed Meta-Regularization Strategies
 
+- Tanh:
+- L$^2$-SP
+
 
 
 ## Experiments
