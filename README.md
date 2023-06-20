@@ -38,10 +38,12 @@ The proposed training strategies can help consistently improve the performance o
 <div  align="center">    
     <img src="figure/query5_shot1_tasknum100_fig.jpg" width="90%" height="90%" align=center />
 </div>
+
 - m=5,n=1
 <div  align="center">    
    <img src="figure/query1_shot5_tasknum100_fig.jpg" width="90%" height="90%" align=center />
 </div>
+
 - m=5,n=5
 <div  align="center">    
     <img src="figure/query5_shot5_tasknum100_fig.jpg" width="90%" height="90%" align=center />
