@@ -51,7 +51,18 @@ The proposed training strategies can help consistently improve the performance o
 
 
 ### Few-shot Classification
+The following tables show the results on four few-shot learning benchmarks. Our proposed meta-regularization strategies does help improve generalization error from SOTA results in most cases. Our proposed meta-regularization scheme is model-agnostic, in the sense that it can be directly applied to regularize the learning for different meta-learners.
 
+- CIFAR-FS and FC-100 benchmarks
+<div  align="center">    
+    <img src="figure/fc100.png" width="90%" height="90%" align=center />
+</div>
+
+
+- miniImageNet and tieredImageNet benchmarks
+<div  align="center">    
+   <img src="figure/miniimagenet.png" width="90%" height="90%" align=center />
+</div>
 
 ### Domain Generalization
 
