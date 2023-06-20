@@ -21,7 +21,7 @@ Meta learning has attracted much attention recently in machine learning communit
 
 ## Proposed Meta-Regularization Strategies
 
-- Tanh: Control the output range of the meta-learner. All activation functions of CNN are usually assumed to be ReLU, while we revise the last activation function as "Tanh".
+- Tanh: Control the output range of the meta-learner. All activation functions of CNN are usually assumed to be ReLU, while we revise the last activation function as "Tanh".  
 - L$^2$-SP: Minimize the distance between the weights from the starting point weights.
 
 
